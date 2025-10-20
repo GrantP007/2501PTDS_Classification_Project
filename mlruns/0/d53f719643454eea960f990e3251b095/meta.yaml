@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d53f719643454eea960f990e3251b095/artifacts
+end_time: 1760906316967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d53f719643454eea960f990e3251b095
+run_name: rambunctious-fly-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760906089538
+status: 4
+tags: []
+user_id: GPietersen

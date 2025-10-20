@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ca1b5a5275f14b018cad8992facc937f/artifacts
+end_time: 1760879985846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1b5a5275f14b018cad8992facc937f
+run_name: adorable-ape-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760879919345
+status: 4
+tags: []
+user_id: GPietersen

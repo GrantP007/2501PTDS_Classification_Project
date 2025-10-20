@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/aa18afe12f5d442b9ae602663b86b39b/artifacts
+end_time: 1760900173573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa18afe12f5d442b9ae602663b86b39b
+run_name: magnificent-fawn-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900098250
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15d8dfae544b47ca82465310f809706c/artifacts
+end_time: 1760882386530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d8dfae544b47ca82465310f809706c
+run_name: polite-ape-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760881729674
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/50b531749bfa4cf5b83c70c6eae794cd/artifacts
+end_time: 1760904759659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50b531749bfa4cf5b83c70c6eae794cd
+run_name: capricious-yak-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760904711555
+status: 4
+tags: []
+user_id: GPietersen

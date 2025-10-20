@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e9a228e3552e4931ab36dc59d5c10fff/artifacts
+end_time: 1760873970575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9a228e3552e4931ab36dc59d5c10fff
+run_name: entertaining-dog-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760873970504
+status: 4
+tags: []
+user_id: GPietersen

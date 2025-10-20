@@ -1,0 +1,2 @@
+[('tfidf', TfidfVectorizer(max_features=40000, min_df=3, ngram_range=(1, 2),
+                stop_words='english')), ('clf', LogisticRegression(C=5, max_iter=2000, solver='liblinear'))]

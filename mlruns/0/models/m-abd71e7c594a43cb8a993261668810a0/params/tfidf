@@ -1,0 +1,2 @@
+TfidfVectorizer(max_features=40000, min_df=3, ngram_range=(1, 2),
+                stop_words='english')

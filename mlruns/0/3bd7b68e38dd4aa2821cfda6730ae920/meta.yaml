@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3bd7b68e38dd4aa2821cfda6730ae920/artifacts
+end_time: 1760874064175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bd7b68e38dd4aa2821cfda6730ae920
+run_name: enthused-hound-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760874013891
+status: 4
+tags: []
+user_id: GPietersen

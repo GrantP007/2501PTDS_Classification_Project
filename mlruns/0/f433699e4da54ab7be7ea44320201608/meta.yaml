@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f433699e4da54ab7be7ea44320201608/artifacts
+end_time: 1760900036760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f433699e4da54ab7be7ea44320201608
+run_name: auspicious-ox-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760899983690
+status: 4
+tags: []
+user_id: GPietersen

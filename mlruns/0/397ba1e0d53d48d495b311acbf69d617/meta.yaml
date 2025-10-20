@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/397ba1e0d53d48d495b311acbf69d617/artifacts
+end_time: 1760880188590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 397ba1e0d53d48d495b311acbf69d617
+run_name: powerful-cub-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760880129965
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cda115862ea4a8a9989df3a034d30e0/artifacts
+end_time: 1760898176815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cda115862ea4a8a9989df3a034d30e0
+run_name: languid-doe-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760897674636
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,1 @@
+{'tfidf__max_features': [10000, 20000], 'clf__n_estimators': [200, 400], 'clf__max_depth': [None, 20, 40]}

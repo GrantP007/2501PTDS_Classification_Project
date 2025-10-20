@@ -29,6 +29,7 @@ import joblib,os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import pickle
 
@@ -98,10 +99,10 @@ def main():
 
 		if st.button("Classify"):
 			# Transforming user input with vectorizer
-			vect_text = test_cv.transform([news_text]).toarray()
+			vect_text = vectorizer #test_cv.transform([news_text]).toarray()
 			# Load your .pkl file with the model of your choice + make predictions
 			# Try loading in multiple models to give the user a choice
-			predictor = joblib.load(open(os.path.join("streamlit/Logistic_regression.pkl"),"rb"))
+			predictor = model #joblib.load(open(os.path.join("streamlit/Logistic_regression.pkl"),"rb"))
 			prediction = predictor.predict(vect_text)
 
 			# When model has successfully run, will print prediction

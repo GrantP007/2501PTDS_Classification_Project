@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d03ad9b9e35b45298d6fd1fa95bd6dd0/artifacts
+end_time: 1760904711531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d03ad9b9e35b45298d6fd1fa95bd6dd0
+run_name: popular-sponge-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760904590911
+status: 4
+tags: []
+user_id: GPietersen

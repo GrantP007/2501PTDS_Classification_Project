@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba9eec2ff2de4ea3b69ab4eff92ed54a/artifacts
+end_time: 1760899150606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9eec2ff2de4ea3b69ab4eff92ed54a
+run_name: selective-elk-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760898565210
+status: 4
+tags: []
+user_id: GPietersen

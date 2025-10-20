@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/35749d280e0446ba9fac91f432b0a0de/artifacts
+end_time: 1760904590886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35749d280e0446ba9fac91f432b0a0de
+run_name: auspicious-fowl-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760904461875
+status: 4
+tags: []
+user_id: GPietersen

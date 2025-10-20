@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/65a5139c713e4b109cc9dc271fcbc8ff/artifacts
+end_time: 1760901728369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65a5139c713e4b109cc9dc271fcbc8ff
+run_name: gaudy-perch-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760901703214
+status: 4
+tags: []
+user_id: GPietersen

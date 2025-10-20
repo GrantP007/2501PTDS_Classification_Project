@@ -1,0 +1,2 @@
+Pipeline(steps=[('tfidf', TfidfVectorizer(stop_words='english')),
+                ('clf', LinearSVC())])

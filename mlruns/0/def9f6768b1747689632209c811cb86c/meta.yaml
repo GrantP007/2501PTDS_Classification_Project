@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/def9f6768b1747689632209c811cb86c/artifacts
+end_time: 1760898246444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def9f6768b1747689632209c811cb86c
+run_name: smiling-auk-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760898176831
+status: 4
+tags: []
+user_id: GPietersen

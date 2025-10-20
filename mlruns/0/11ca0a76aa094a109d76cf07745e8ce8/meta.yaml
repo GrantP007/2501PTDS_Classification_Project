@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11ca0a76aa094a109d76cf07745e8ce8/artifacts
+end_time: 1760906533347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11ca0a76aa094a109d76cf07745e8ce8
+run_name: luminous-conch-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760906405435
+status: 4
+tags: []
+user_id: GPietersen

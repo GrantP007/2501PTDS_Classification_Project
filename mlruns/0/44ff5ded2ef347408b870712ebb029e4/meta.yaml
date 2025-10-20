@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/44ff5ded2ef347408b870712ebb029e4/artifacts
+end_time: 1760906405417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44ff5ded2ef347408b870712ebb029e4
+run_name: colorful-ox-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760906316999
+status: 4
+tags: []
+user_id: GPietersen

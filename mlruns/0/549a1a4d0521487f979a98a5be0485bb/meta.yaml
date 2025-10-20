@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/549a1a4d0521487f979a98a5be0485bb/artifacts
+end_time: 1760900098218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 549a1a4d0521487f979a98a5be0485bb
+run_name: shivering-carp-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900036774
+status: 4
+tags: []
+user_id: GPietersen

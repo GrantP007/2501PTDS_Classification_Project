@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/695b4783d3f14ea7871176890262e6d5/artifacts
+end_time: 1760899983675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 695b4783d3f14ea7871176890262e6d5
+run_name: casual-yak-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760899534856
+status: 4
+tags: []
+user_id: GPietersen

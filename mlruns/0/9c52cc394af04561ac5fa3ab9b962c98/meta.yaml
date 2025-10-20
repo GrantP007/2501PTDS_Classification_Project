@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9c52cc394af04561ac5fa3ab9b962c98/artifacts
+end_time: 1760879821340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c52cc394af04561ac5fa3ab9b962c98
+run_name: rumbling-wolf-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760879104277
+status: 4
+tags: []
+user_id: GPietersen

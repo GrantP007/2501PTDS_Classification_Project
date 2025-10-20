@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/63c34096dc144d09996cf232eeb34f75/artifacts
+end_time: 1760872606932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c34096dc144d09996cf232eeb34f75
+run_name: dapper-snake-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760872606508
+status: 4
+tags: []
+user_id: GPietersen

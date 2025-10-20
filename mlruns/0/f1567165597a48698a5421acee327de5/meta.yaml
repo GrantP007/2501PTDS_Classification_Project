@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f1567165597a48698a5421acee327de5/artifacts
+end_time: 1760900394746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1567165597a48698a5421acee327de5
+run_name: salty-skunk-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760900362485
+status: 4
+tags: []
+user_id: GPietersen

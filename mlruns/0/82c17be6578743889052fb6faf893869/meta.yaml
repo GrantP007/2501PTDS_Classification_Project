@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82c17be6578743889052fb6faf893869/artifacts
+end_time: 1760906585560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c17be6578743889052fb6faf893869
+run_name: sneaky-stag-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760906533422
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d94c825df78a4665b6dde9d3066c0a93/artifacts
+end_time: 1760905416699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d94c825df78a4665b6dde9d3066c0a93
+run_name: sassy-shoat-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760905407382
+status: 4
+tags: []
+user_id: GPietersen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1941e9286e7c4668b8940a6677c65aaf/artifacts
+end_time: 1760779837789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1941e9286e7c4668b8940a6677c65aaf
+run_name: adventurous-vole-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760779823751
+status: 4
+tags: []
+user_id: GPietersen

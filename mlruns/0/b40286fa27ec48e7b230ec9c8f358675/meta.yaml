@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b40286fa27ec48e7b230ec9c8f358675/artifacts
+end_time: 1760874722308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40286fa27ec48e7b230ec9c8f358675
+run_name: calm-sponge-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760874701093
+status: 4
+tags: []
+user_id: GPietersen
