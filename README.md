@@ -1,5 +1,3 @@
-##### **Please note**: Download the repository as a zipped folder, create a private repository, and upload the content to it. This way, you can collaborate with your teammates effectively.
-
 ## 2501PTDS_Classification_Project
 
 # Analysing News Articles Dataset
@@ -22,8 +20,8 @@
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
-Your team has been hired as data science consultants for a news outlet to create classification models using Python and deploy it as a web application with Streamlit. 
-The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for the news outlet could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
+Our team has been hired as data science consultants for a news outlet to create classification models using Python and deploy it as a web application with Streamlit. 
+The aim is to provide apply machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for the news outlet could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
@@ -43,11 +41,14 @@ The dataset is comprised of news articles that need to be classified into catego
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas 2.2.2` and `Numpy 1.26`
 + `Matplotlib 3.8.4`
- 
++ `Scikit-learn i.e. sklearn`
++ `Natural Language Toolkit i.e. NLTK`
++ `Regular expression i.e. re`
++ `MLflow`
 
 ## 4. Environment <a class="anchor" id="environment"></a>
 
-It's highly recommended to use a virtual environment for your projects, there are many ways to do this; we've outlined one such method below. Make sure to regularly update this section. This way, anyone who clones your repository will know exactly what steps to follow to prepare the necessary environment. The instructions provided here should enable a person to clone your repo and quickly get started.
+It's highly recommended to use a virtual environment for projects, there are many ways to do this; one outlined such method below. The instructions provided here enables a person to clone the repo and quickly get started.
 
 ### Create the new evironment - you only need to do this once
 
@@ -129,7 +130,7 @@ Congratulations! You've now officially deployed your first web application!
 
 #### 6.2 Deploying your Streamlit web app
 
-- To deploy your app for all to see, click on `deploy`.
+- To deploy the app for all to see, click on `deploy`.
   
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
@@ -137,5 +138,5 @@ Congratulations! You've now officially deployed your first web application!
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Oludare Adekunle](https://github.com/DareSandtech)                                         | oadekunle@sandtech.com
-| [Claudia Elliot-Wilson]()                                                                   | celliot-wilson@sandtech.com
+| [Grant Pietersen]()                                                                       | Grant.Pietersen@ninetyone.com
+| [RachelFinlayson]()                                                                      | Rachel.Finlayson@ninetyone.com
