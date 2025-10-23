@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e1d53caf7ef34b99a6487204598eddb3/artifacts
+end_time: 1761203161960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d53caf7ef34b99a6487204598eddb3
+run_name: rf-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761202755355
+status: 3
+tags: []
+user_id: GPietersen

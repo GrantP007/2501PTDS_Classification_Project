@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f7fc353cd728416097ad115367061fa8/artifacts
+end_time: 1761202557614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7fc353cd728416097ad115367061fa8
+run_name: linearsvc-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761202433779
+status: 3
+tags: []
+user_id: GPietersen

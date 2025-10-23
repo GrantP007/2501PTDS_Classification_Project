@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/697980533bdc43b981749d9457d1b019/artifacts
+end_time: 1761203497129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 697980533bdc43b981749d9457d1b019
+run_name: pac-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761203319042
+status: 3
+tags: []
+user_id: GPietersen

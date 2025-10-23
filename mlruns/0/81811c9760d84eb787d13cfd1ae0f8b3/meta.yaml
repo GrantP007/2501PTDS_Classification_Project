@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/81811c9760d84eb787d13cfd1ae0f8b3/artifacts
+end_time: 1761202755323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81811c9760d84eb787d13cfd1ae0f8b3
+run_name: sgd-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761202636525
+status: 3
+tags: []
+user_id: GPietersen

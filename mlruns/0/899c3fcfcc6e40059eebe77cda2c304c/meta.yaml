@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/899c3fcfcc6e40059eebe77cda2c304c/artifacts
+end_time: 1761202433687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 899c3fcfcc6e40059eebe77cda2c304c
+run_name: logreg-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761201318359
+status: 3
+tags: []
+user_id: GPietersen

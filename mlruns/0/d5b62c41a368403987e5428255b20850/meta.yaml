@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d5b62c41a368403987e5428255b20850/artifacts
+end_time: 1761203565630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b62c41a368403987e5428255b20850
+run_name: cnb-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761203497192
+status: 3
+tags: []
+user_id: GPietersen

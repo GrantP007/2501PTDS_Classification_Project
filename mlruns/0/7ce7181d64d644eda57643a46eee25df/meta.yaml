@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ce7181d64d644eda57643a46eee25df/artifacts
+end_time: 1761202636480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce7181d64d644eda57643a46eee25df
+run_name: nb-grid
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761202558078
+status: 3
+tags: []
+user_id: GPietersen

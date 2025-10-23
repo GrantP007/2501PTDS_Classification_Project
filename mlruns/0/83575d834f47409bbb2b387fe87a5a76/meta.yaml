@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/83575d834f47409bbb2b387fe87a5a76/artifacts
+end_time: 1761203588107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83575d834f47409bbb2b387fe87a5a76
+run_name: victorious-cow-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761203572472
+status: 4
+tags: []
+user_id: GPietersen
